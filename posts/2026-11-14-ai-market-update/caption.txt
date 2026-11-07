@@ -1,0 +1,10 @@
+Write your monthly market update in 5 minutes with ChatGPT or Claude.
+
+The prompt:
+"I'm a real estate agent in {city}. Here's this month's data: {paste}. Write a 120-word email update for past clients in {neighborhood}. Plain English, one clear takeaway, no price predictions."
+
+Paste real MLS numbers, edit it so it sounds like you, and never paste clients' private details.
+
+Save this for the 1st of the month.
+
+#realestateagent #realtortips #chatgptforrealtors #aiforrealestate #realestatemarketing #marketupdate #realtorlife
